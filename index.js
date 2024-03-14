@@ -1,4 +1,4 @@
-console.log("hi");
+// console.log("hi");
 //     *dicevale
 // var a = Math.random();
 // var dicevalue = Math.ceil(a * 6);
@@ -35,13 +35,25 @@ console.log("hi");
     // *assign loop answer =30
 // var a = 0;
 // for (var i=0; i<10; i++){
-// a +=  3;
+// // a += 3;
 // }
 // console.log(a)
-
 
     //  *Cunstructor function of date and time  
 // var currentDate = new Date( );
 // console.log(currentDate);
+
 // console.log(currentDate.getDate());
-// console.log(currentDate.getMonth());
+// console.log(currentDate.getMonth()+1);
+
+        //   *set date
+        // var a = new Date();
+        // // a.setDate(1);
+        // a.setMonth(0)
+        // a.setFullYear(2000);
+        // a.setMilliseconds(54)
+        
+        // // *Date after 5 days
+        // a.setDate(a.getDate()+5);
+
+        // console.log(a);
