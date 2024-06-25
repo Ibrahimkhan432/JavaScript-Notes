@@ -393,9 +393,13 @@
 // console.log("🚀 ~ value ~ value:", value)
 
 // *map
-let num = [1,2,3,4,5]
+// let num = [1,2,3,4,5]
 
-let newNum = num
+// num.map((loop)=>{
+//     console.log(loop);
+// });
+
+// let newNum = num
 // .map((num)=> num +5)   //chaining rule
 // .map((num)=> num +10)
 // .filter((num)=>  num >18)
@@ -433,6 +437,22 @@ let newNum = num
 
 // console.log("🚀 ~ totalBill:", totalBill)
 
+
+// arrow Function with one perimeter
+// let fun = a =>{
+//     console.log(a);
+// }
+// fun("run");
+
+// let fun = (a,b)=>
+//     "return"
+
+// let a =fun()
+// console.log(a);
+
+// let a = _ => _
+// let abc = a ("this is arrow")
+// console.log("🚀 ~ abc:", abc)
 
 
 
